@@ -10,4 +10,4 @@
      ![Image Alt](https://github.com/harisharandangi/two-link-planar-manipulator/blob/9e9e21e212751ad8f519003343269b892685bf6e/Manipulator%20animation%20following%20square%20(Cartesian%20sampling).jpg)
 
 
-   ![Image Alt](https://github.com/harisharandangi/two-link-planar-manipulator/blob/main/3.JPG)
+
