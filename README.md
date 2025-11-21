@@ -9,5 +9,5 @@
    ![Image Alt](https://github.com/harisharandangi/two-link-planar-manipulator/blob/9e9e21e212751ad8f519003343269b892685bf6e/Joint%20trajectory.jpg)
      ![Image Alt](https://github.com/harisharandangi/two-link-planar-manipulator/blob/9e9e21e212751ad8f519003343269b892685bf6e/Manipulator%20animation%20following%20square%20(Cartesian%20sampling).jpg)
 
-
+ ![Image Alt]([https://github.com/harisharandangi/two-link-planar-manipulator/blob/9e9e21e212751ad8f519003343269b892685bf6e/Manipulator%20animation%20following%20square%20(Cartesian%20sampling).jpg](https://github.com/harisharandangi/two-link-planar-manipulator/blob/76748c280bb4dc7dae968bb49d5fed227ec15095/Workspace%20of%202R%20manipulator%20(sampled)%20with%20executed%20path%20overlay.jpg))
 
